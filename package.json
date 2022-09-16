@@ -1,0 +1,26 @@
+{
+  "name": "homework-01",
+  "version": "1.0.0",
+  "description": "**Читать на других языках: [Русский](README.md), [Українська](README.ua.md).**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatveyRubets/nodejs-cli-homework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatveyRubets/nodejs-cli-homework/issues"
+  },
+  "homepage": "https://github.com/MatveyRubets/nodejs-cli-homework#readme",
+  "devDependencies": {
+    "commander": "^9.4.0",
+    "nodemon": "^2.0.20",
+    "uuid": "^9.0.0"
+  }
+}
